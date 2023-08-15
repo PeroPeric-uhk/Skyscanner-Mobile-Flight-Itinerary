@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mobile Flight Itinerary</string>
+    <string name="departure">Departure</string>
+    <string name="flight_information_title">Flight information</string>
+    <string name="flight_number">Flight number: AC861</string>
+    <string name="departure_title">Departure</string>
+    <string name="departure_airport">Airport: LHR</string>
+    <string name="departure_time">Departure time: 14:30</string>
+    <string name="arrival_title">Arrival</string>
+    <string name="arrival_airport">Airport: YVR</string>
+    <string name="arrival_time">Arrival time: 16:15</string>
+</resources>
